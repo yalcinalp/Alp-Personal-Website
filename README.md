@@ -1,5 +1,5 @@
 # Alp Personal Website [WIP]
-Code for the personal website. It's for blogging and showing portfolio by using responsive web design principles
+Code for the personal website. It's for blogging and showing portfolio.
 
 ![image](https://github.com/user-attachments/assets/dc4e28db-e117-4bd8-a034-897eb10a0f86)
 
